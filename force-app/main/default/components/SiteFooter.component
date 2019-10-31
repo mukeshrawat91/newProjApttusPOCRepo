@@ -1,3 +1,4 @@
+<!-- making chahes to test CLoNE Repository testing-->
 <apex:component id="footerComponent">
   <c:SitePoweredBy />
 </apex:component>
