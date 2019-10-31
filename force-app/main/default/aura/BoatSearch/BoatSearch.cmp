@@ -1,4 +1,5 @@
-<!-- make modification in Boat Search Component-->
+<!-- make modification in Boat Search Component
+making code optimization for latest and greatest version-->
 
 
 <aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId"
@@ -11,7 +12,7 @@
        <c:BoatSearchForm />
     </lightning:card>
    
-     <div id='gapofComp' style=''/>  
+     <div id='gapofComp' />  
     
     <lightning:card title="Matching Boats" >
         <c:BoatSearchResults aura:id="childCmp" />    <!-- aura:id="childCmp" -->
